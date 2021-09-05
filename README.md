@@ -9,7 +9,7 @@ Repo para dar acceso a los estudiantes del curso **Programación y manejo de dat
 La wiki esta [aquí](https://github.com/perezp44/intro-ds-21-22-web-companion/wiki), y los foros [aquí](https://github.com/perezp44/intro-ds-21-22-web-companion/discussions).
 
 
-Insisto, este repo solo existe para dar acceso a los estudiantes de la asignatura a **wiki** y **foros**. Veremos que tal funcionan!! La página web de la asignatura está [aquí](https://perezp44.github.io/intro-ds-21-22-web/), y el repo que la construye, está [aquí](https://github.com/perezp44/intro-ds-21-22-web). 
+Insisto, este repo solo existe para dar acceso a los estudiantes de la asignatura a **wiki** y **foros**. Veremos que tal funcionan!! La página web oficial de la asignatura está [aquí](https://perezp44.github.io/intro-ds-21-22-web/), y el repo que la construye, está [aquí](https://github.com/perezp44/intro-ds-21-22-web). 
 
 
 
